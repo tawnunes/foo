@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of foo is to ...
+The goal of foo is to calculate Shannon diversity index
 
 ## Installation
 
@@ -18,7 +18,6 @@ remotes::install_github("tawnunes/foo")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
 library(foo)
